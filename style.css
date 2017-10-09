@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    
+}
+.CabeceraUn{
+    font-family: 'Butterfly Kids', cursive;
+    font-size: 20px;
+    background-color: #eeea67;    
+}
+
+.CabeceraDeux{
+    font-family: 'Butterfly Kids', cursive;
+    font-size: 30px;
+    background-color: #bfee67;    
+}
+
+.CabeceraTrois{
+    font-family: 'Butterfly Kids', cursive;
+    font-size: 40px;
+    background-color: #FFA07A;    
+}
